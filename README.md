@@ -1,4 +1,4 @@
-# cichlid_GRNs
+# Cichlid GRNs
 Gene regulatory network reconstruction of five cichlid species (M. zebra, P. nyererei, A. burtoni, N. brichardi and O. niloticus)
 
 Construction of cichlid gene trees - MUSCLE-3.8.31; OrthoMCL-1.4.0; TreeFix-1.1.10 
