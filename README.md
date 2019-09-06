@@ -1,12 +1,12 @@
 # Cichlid GRNs
 Gene regulatory network reconstruction of five cichlid species (M. zebra, P. nyererei, A. burtoni, N. brichardi and O. niloticus)
 
-Construction of cichlid gene trees - MUSCLE-3.8.31; OrthoMCL-1.4.0; TreeFix-1.1.10 
-Inference of multi- and single- tissue transcriptional modules - Arboretum2.0 
-Transcription factor (TF) motif scanning  - MEME-4.11.1; RSAT Update 2017/04/21; FIMO-4.11.1 
-Variation and evolutionary rate at coding and non-coding regions - BLAT-35; MAFFT-7.271; PAML-4.9 
-Regulatory network rewiring analysis of gene sets - DyNet-2.0; Cytoscape-3.7.1
-Identification of segregating sites in TFBSs - bedtools-2.25.0
+- Construction of cichlid gene trees - MUSCLE-3.8.31; OrthoMCL-1.4.0; TreeFix-1.1.10 
+- Inference of multi- and single- tissue transcriptional modules - Arboretum2.0 
+- Transcription factor (TF) motif scanning  - MEME-4.11.1; RSAT Update 2017/04/21; FIMO-4.11.1 
+- Variation and evolutionary rate at coding and non-coding regions - BLAT-35; MAFFT-7.271; PAML-4.9 
+- Regulatory network rewiring analysis of gene sets - DyNet-2.0; Cytoscape-3.7.1
+- Identification of segregating sites in TFBSs - bedtools-2.25.0
 
 ================================================================
 
