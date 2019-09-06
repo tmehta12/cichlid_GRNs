@@ -47,8 +47,10 @@ In Network_Reconstruction_files.tgz are the major files required to run network 
 
 ## 2a.TF_motif_scanning_scripts
 https://figshare.com/s/74cf95bee84eb5443671 (doi: 10.6084/m9.figshare.7712753)
-The scripts described in this file are pre-publication and provided to editors and reviewers as part of Nature submission 2019-01-00273B-Z. The scripts are in draft version as they are in the process of being collated into a pipeline tool which will be published as a companion paper. As such, scripts lack comments within their body. Future versions will be fully commented and released with full documentation
+
+The scripts described in this file are pre-publication and are in draft version as they are in the process of being collated into a pipeline tool which will be published as a companion paper. As such, scripts lack comments within their body. Future versions will be fully commented and released with full documentation
 All scripts described below were written and tested by Will Nash (ORCID: 0000-0002-6790-1167) during the preparation of material for this paper. The scripts below were written to run in the stated order, with each script relying on the output of that prior to it. Where a and b versions exist, these are motifs for a) human and b) mouse data and were handled separately during the development of the approach. The scripts are identical, but deal with species specific descriptors differently. Both versions are included here for clarity, but scripts will be generalised in the publication version.
+
 - Scripts in 2a.TF_motif_scanning_scripts.zip
 - 1_GTRD_parse.py
 - 2a_extrapSites_hum_v3.py
@@ -87,6 +89,8 @@ Based on the NetworkReconstruction_v1.0_2019.sh script and subsequent formation 
 
 ================================================================
 
-## 4. TF-TG gain and loss rates (TF binding rates) were estimated using code at https://github.com/Roy-lab/compfuncgen_utils
+## 4. TF-TG gain and loss rates (TF binding rates)
+
+These were estimated using code at https://github.com/Roy-lab/compfuncgen_utils
 
 ================================================================
