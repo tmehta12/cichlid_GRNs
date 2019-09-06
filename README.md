@@ -78,7 +78,9 @@ This contains output files from the TF motif scanning scripts
 
 ================================================================
 
-## 2c. Co-expression (TF-TG) based regulatory networks were inferred using MERLIN-P without the module and motif prior available at https://github.com/Roy-lab/merlin-p
+## 2c. Co-expression (TF-TG) based regulatory networks 
+
+These were inferred using MERLIN-P without the module and motif prior available at https://github.com/Roy-lab/merlin-p
 
 ================================================================
 
