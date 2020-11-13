@@ -1,6 +1,7 @@
-##########################################################################################################################
+############################################################################
 
-Network Reconstruction constrained by Arboretum output - 5 cichlids (O. niloticus, P. nyererei, A. burtoni, M .zebra, N. brichardi)
+Network Reconstruction constrained by Arboretum output
+5 cichlids (O. niloticus, P. nyererei, A. burtoni, M .zebra, N. brichardi)
 
 Interaction inputs - TFBSs and TF-TG co-expression
 
@@ -8,11 +9,14 @@ By Tarang Mehta, Earlham, UK
 Version 1.0 2019
 
 License: 
-This source code is freely available to all under the Creative Commons Attribution-ShareAlike license (CC BY-SA) and under the standard GPL 3.0 license from Github
+This source code is freely available to all under the Creative Commons 
+Attribution-ShareAlike license (CC BY-SA) and under the standard GPL 
+3.0 license from Github
 
-##########################################################################################################################
+############################################################################
 
 Run script: ./NetworkReconstruction_v1.0_2019.sh [workingdir] Module_genesandexpr TFBSs TFTGco Edge_Attributes
+
 NOTE: This will not run end to end as there are instances of copying code into scripts using nano
 
 Files in [workingdir]:
@@ -29,6 +33,6 @@ Files in [workingdir]:
 - nb-speciesspecnames_clusterassign.txt # Arboretum module assignment of N. brichardi genes
 - on-speciesspecnames_clusterassign.txt # Arboretum module assignment of O. niloticus genes
 - geneNamesMapping.txt # gene orthology of cichlid IDs, Ensembl IDs and gene descriptions
-- MzPnAbNbOnGenome-BLAST_PresentNULLOGIDS-noCand-noTF.txt2 # 4209 orthogroups with NULL orthogroup IDs for one or species are actually present in the genome (mis-annotations etc.) and not lost/absent
+- MzPnAbNbOnGenome-BLAST_PresentNULLOGIDS-noCand-noTF.txt2
 
-##########################################################################################################################
+############################################################################
