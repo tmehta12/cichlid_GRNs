@@ -19,7 +19,8 @@ https://github.com/Roy-lab/Arboretum2.0
 
 ## 1a.Network_Reconstruction_script
 
-- NetworkReconstruction_v1.0_2019.sh # script to run network reconstruction from TFBSs and TF-TG co-expression files
+Script to run network reconstruction from TFBSs and TF-TG co-expression files
+- NetworkReconstruction_v1.0_2019.sh 
 
 ================================================================
 
