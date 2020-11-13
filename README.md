@@ -44,7 +44,8 @@ In Network_Reconstruction_files.tgz are the major files required to run network 
 - motifenr_merged-TFBSs_map2d.txt # output of processing files in TFBSs - Motif Discovery in gene promoter regions
 - tftgco_merged.txt # output of processing TF-TG co-expression files
 
-https://doi.org/10.6084/m9.figshare.7707437
+Files are here: https://doi.org/10.6084/m9.figshare.7707437
+
 ================================================================
 
 ## 2a.TF_motif_scanning_scripts
