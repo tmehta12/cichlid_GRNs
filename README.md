@@ -87,7 +87,7 @@ clarity, but scripts will be generalised in the publication version.
 
 ## 2b.TF_motif_scanning_outputs
 
-This contains output files from the TF motif scanning scripts
+This contains output files from the TF motif scanning scripts.
 Files are here: https://doi.org/10.6084/m9.figshare.7712423
 
 ================================================================
