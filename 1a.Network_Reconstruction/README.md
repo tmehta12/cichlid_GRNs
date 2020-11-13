@@ -1,6 +1,7 @@
 ############################################################################
 
-Network Reconstruction constrained by Arboretum output
+Network Reconstruction constrained by Arboretum output of
+
 5 cichlids (O. niloticus, P. nyererei, A. burtoni, M .zebra, N. brichardi)
 
 Interaction inputs - TFBSs and TF-TG co-expression
