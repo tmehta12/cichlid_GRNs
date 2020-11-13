@@ -30,22 +30,22 @@ clarity, but scripts will be generalised in the publication version.
 
 Scripts:
 
-1_GTRD_parse.py
-2a_extrapSites_hum_v3.py
-2b_extrapSites_mus_v3.py
-3a_extrapSites_hum_v4.py
-3b_extrapSites_mus_v4.py
-4a_extrapSites_hum_v4ex.py
-4b_extrapSites_mus_v4ex.py
-5a_extrapSites_hum_afterMEME.py
-5b_extrapSites_mus_afterMEME.py
-6_TFBSextrapolation_v5.py
-7_TFsortSplit5.py
-8_run_mat_qual_nm.py
-9a_matQualResultsParser1_hsap.py
-9b_matQualResultsParser1_mus.py
-10a_mat_qual_fimo_parse_hsap_wg.py
-10b_mat_qual_fimo_parse_mmus_wg.py
+- 1_GTRD_parse.py
+- 2a_extrapSites_hum_v3.py
+- 2b_extrapSites_mus_v3.py
+- 3a_extrapSites_hum_v4.py
+- 3b_extrapSites_mus_v4.py
+- 4a_extrapSites_hum_v4ex.py
+- 4b_extrapSites_mus_v4ex.py
+- 5a_extrapSites_hum_afterMEME.py
+- 5b_extrapSites_mus_afterMEME.py
+- 6_TFBSextrapolation_v5.py
+- 7_TFsortSplit5.py
+- 8_run_mat_qual_nm.py
+- 9a_matQualResultsParser1_hsap.py
+- 9b_matQualResultsParser1_mus.py
+- 10a_mat_qual_fimo_parse_hsap_wg.py
+- 10b_mat_qual_fimo_parse_mmus_wg.py
 
 ===============================================================================
 
