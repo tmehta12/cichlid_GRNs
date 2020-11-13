@@ -92,6 +92,7 @@ Scripts in 2a.TF_motif_scanning_scripts.zip:
 ## 2b.TF_motif_scanning_outputs
 
 This contains output files from the TF motif scanning scripts.
+
 Files are here: https://doi.org/10.6084/m9.figshare.7712423
 
 ================================================================
@@ -105,7 +106,9 @@ These were inferred using MERLIN-P without the module and motif prior available 
 ## 3.Edge_attribute_file_RewiringAnalysis_file
 
 Based on the NetworkReconstruction_v1.0_2019.sh script and subsequent formation of a matrix for each edge (1 for present and 0 for absent), the file in the below zip file was used for 1.enrichment analysis and 2.Regulatory network rewiring analysis of gene sets 
-- Edge_Attributes_Collated4c.coexpr_promONLY.NEWsimplified.matrix3.filteredPresentNULLOGIDS.txt.zip 
+
+    - Edge_Attributes_Collated4c.coexpr_promONLY.NEWsimplified.matrix3.filteredPresentNULLOGIDS.txt.zip 
+
 File is here: https://doi.org/10.6084/m9.figshare.7707455
 
 ================================================================
