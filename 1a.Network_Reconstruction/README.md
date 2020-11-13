@@ -13,7 +13,9 @@ This source code is freely available to all under the Creative Commons Attributi
 ==========================================================================
 
 Run script: 
+	
 	./NetworkReconstruction_v1.0_2019.sh [workingdir] Module_genesandexpr TFBSs TFTGco Edge_Attributes
+
 NOTE: This will not run end to end as there are instances of copying code into scripts using nano
 
 Files in [workingdir]:
