@@ -7,7 +7,7 @@
 #10kb window of peaks, should tka plus and minus strand files and merge them, and then add sequence.
 #
 
-###Runs fastest if depolyed over a job array
+###Runs fastest if deployed over a job array
 #use split -l # -a # -d /in /out to chunk the GTRD data then
 # SBATCH --array=0:n in the batch script with %A(process) %a(job id) and $SLURM_ARRAY_TASK_ID in the call
 
