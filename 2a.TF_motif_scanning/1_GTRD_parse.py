@@ -1,14 +1,14 @@
 #!/usr/bin/python
 
 #=======================================================================================================
-# Exptrapolation extension written for paddy
+# Exptrapolation extension
 # aim: to construct the tf:tg:tfbs output file from the GTRD database that has been cleaned using bedtools
 #intersect to remove overlapping peaks and then bedtools closest to rmeove all non adjacent genes wthin a
 #10kb window of peaks, should tka plus and minus strand files and merge them, and then add sequence.
 #
 
-###Runs fastest if deployed over a job array
-#use split -l # -a # -d /in /out to chunk the GTRD data then
+### Runs fastest if deployed over a job array
+# use split -l # -a # -d /in /out to chunk the GTRD data then
 # SBATCH --array=0:n in the batch script with %A(process) %a(job id) and $SLURM_ARRAY_TASK_ID in the call
 
 
